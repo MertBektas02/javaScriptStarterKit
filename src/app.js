@@ -30,6 +30,6 @@ console.log("</ul>")
     <li>Kamu Konut Kredisi</li>
 </ul> */}
 
-// ekleme yapıyor mu test?**************************************
+//push to denemesi yapıyorum.
 
 console.log(konutKredileri)
